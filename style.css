@@ -41,8 +41,8 @@ a{
 }
 
 .section-1 img {
-    max-width: 50mm;
-    max-height: 50mm;
+    max-width: 100%; /* Adjust the percentage or pixel value as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
 .section-1 a{
